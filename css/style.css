@@ -31,3 +31,7 @@ img {
 footer {
 	float: right;
 }
+
+a {
+	text-decoration: none; 
+}
