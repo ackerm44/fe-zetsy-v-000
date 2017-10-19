@@ -17,8 +17,9 @@ body {
 	padding: 0 45px 20px;
 }
 
-h1, h2 {
+h1 {
 	color: rgb(154,169,164)
+	font-family: Baskerville, serif; 
 }
 
 footer {
