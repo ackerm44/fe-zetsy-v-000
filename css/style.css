@@ -35,3 +35,7 @@ footer {
 a {
 	text-decoration: none; 
 }
+
+a:hover {
+	cursor: hand; 
+}
