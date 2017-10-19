@@ -38,7 +38,7 @@ img {
 
 footer {
 	float: right;
-	font-size: 14px; 
+	font-size: 14px;
 }
 
 a {
@@ -55,8 +55,8 @@ p {
 
 .clearfix:after {
 	content: ".";
-	display: block; 
-	clear: both; 
+	display: block;
+	clear: both;
 	visibility: hidden;
 	height: 0;
 	line-height: 0; 
