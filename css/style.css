@@ -52,3 +52,12 @@ a:hover {
 p {
 	color: rgb(119,124,126);
 }
+
+.clearfix:after {
+	content: ".";
+	display: block; 
+	clear: both; 
+	visibility: hidden;
+	height: 0;
+	line-height: 0; 
+}
