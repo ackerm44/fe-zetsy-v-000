@@ -23,7 +23,11 @@ h1 {
 	font-size: 80px;
 	font-family: Baskerville, serif;
 	margin-bottom: 10px; 
+}
 
+h2 {
+	color: rgb(119,124,126);
+	font-size: 40px; 
 }
 
 img {
@@ -44,6 +48,6 @@ a:hover {
 	cursor: hand;
 }
 
-h2, p {
+p {
 	color: rgb(119,124,126);
 }
