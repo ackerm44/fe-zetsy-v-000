@@ -23,7 +23,8 @@ h1 {
 }
 
 img {
-	border-color: rgb(156,170,165)
+	border-color: rgb(156,170,165);
+	border-width: 5px; 
 }
 
 footer {
