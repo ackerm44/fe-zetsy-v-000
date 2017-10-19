@@ -18,10 +18,10 @@ body {
 }
 
 h1 {
-	color: rgb(154,169,164)
+	color: rgb(154,169,164); 
 	font-family: Baskerville, serif; 
 }
 
 footer {
-	float: right; 
+	float: right;
 }
